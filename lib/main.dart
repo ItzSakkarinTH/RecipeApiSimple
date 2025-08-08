@@ -427,7 +427,7 @@ class RecipeCards extends StatelessWidget {
                         const Spacer(),
                         _buildInfoItem(
                           Icons.local_fire_department_rounded,
-                          '${recipes.caloriesPerServing} cal',
+                          '${recipes.caloriesPerServing} แคลลอรี่',
                           Colors.orange[600]!,
                         ),
                       ],
